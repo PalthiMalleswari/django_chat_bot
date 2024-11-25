@@ -8,7 +8,7 @@ import time
 import os
 import google.generativeai as genai
 
-gemini_api_key = 'AIzaSyCrH76R3kiz1Mz3hdSv-pIHD7xZ8foy138'
+gemini_api_key = 'your-api-key'
 
 
 def ask_openai(message):
