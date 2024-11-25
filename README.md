@@ -26,7 +26,9 @@ A chatbot application built using **Django**, **Python**, **PostgreSQL**, **HTML
 - **APIs**: Gemini APIs  
 
 ---
-
+## Demo
+[Video](https://www.youtube.com/watch?v=nx5hr7AaBiI)
+---
 ## Prerequisites  
 - Python 3.8+  
 - pip (Python package installer)  
