@@ -40,7 +40,7 @@ A chatbot application built using **Django**, **Python**, **PostgreSQL**, **HTML
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/PalthiMalleswari/django-chat_bot.git
-   cd django-chat_bot
+   cd django-chatbot
 
 2. **Create a Virtual Environment**
 
